@@ -71272,7 +71272,7 @@ else{q=t.VS
 p=t.E
 p=A.k_(A.b([A.k_(A.b([B.Po,B.wF,A.GG(A.b([A.agw(A.a5v(o.e,B.l,B.Cc,!0,A.b([new A.mc(A.c1(m,!0,!1),!0,""),new A.p5(4,n)],q),B.jq,B.ep,B.az),3),B.l5,A.agw(A.a5v(o.f,B.l,B.Ca,!0,A.b([new A.mc(A.c1(m,!0,!1),!0,""),new A.p5(2,n)],q),B.jq,B.ep,B.az),2),B.l5,A.agw(A.a5v(o.r,B.l,B.Cb,!0,A.b([new A.mc(A.c1(m,!0,!1),!0,""),new A.p5(2,n)],q),B.jq,B.ep,B.az),2)],p),B.as,B.aZ,B.be)],p),B.c7,B.aZ,B.be,B.b5),B.wG,o.Qs(),B.Kd,o.RT()],p),B.as,B.cn,B.be,B.b5)
 q=p}else q=o.acu()
-return new A.ww(new A.rT(k,l,new A.Ms(n,n,1/0,56),n),A.lS(A.ami(A.Dd(n,A.k_(A.b([q],t.E),B.as,B.cn,B.be,B.b5),B.M,new A.ds(B.j,n,n,s,r,n,B.aW),500,n,B.Bz,500),B.aV),n,n),n)},
+return new A.ww(new A.rT(k,l,new A.Ms(n,n,1/0,56),n),A.lS(A.ami(A.Dd(n,A.k_(A.b([q],t.E),B.as,B.cn,B.be,B.b5),B.M,new A.ds(B.j,n,n,s,r,n,B.aW),600,n,B.Bz,600),B.aV),n,n),n)},
 acu(){var s=this,r=null,q=s.cy
 q===$&&A.a()
 return A.k_(A.b([A.jQ(q,new A.acb(s),r),B.wG,A.pZ(A.a5v(s.d,B.l,B.Cd,!0,r,r,B.ep,B.az),r,350),B.fY,A.agL(r,B.C8,new A.acc(s),r,r)],t.E),B.as,B.cn,B.be,B.b5)},
@@ -71293,7 +71293,7 @@ q=j.ax
 q===$&&A.a()
 r=j.ay
 r===$&&A.a()
-r=A.dy(q+" \uc774 \uc0ac\uc8fc\ub294 "+r+" \uc774\ub97c \uc774\uc6a9\ud574 \uc544\ub798\uc758 "+j.w+" \uc774\ub984\uc744 \ucd94\ucc9c\ud569\ub2c8\ub2e4.",i,i,i,B.cu,B.az,i)
+r=A.dy(q+" \uc774 \uc0ac\uc8fc\ub294 "+r+"\n\uc774\ub97c \uc774\uc6a9\ud574 \uc544\ub798\uc758 "+j.w+" \uc774\ub984\uc744 \ucd94\ucc9c\ud569\ub2c8\ub2e4.",i,i,i,B.cu,B.az,i)
 q=j.ch
 q===$&&A.a()
 q=A.dy(q,i,i,i,B.cu,B.az,i)
@@ -71324,7 +71324,7 @@ q=A.W(p).N.z
 if(q==null)q=B.D
 s.oi(A.atz(null,q,!1,null,new A.acd(this),p,null,r,B.x6,!0,t.z))},
 Bd(a,b){var s=null,r=A.jU(20),q=A.b([new A.cJ(2,B.cC,A.I(B.c.a7(127.5),158,158,158),B.f,2)],t.sq),p=A.ags(s,s,s,s,s,s,10,s,s,s,s,B.K3,s,s,new A.ce(A.jU(20),B.p),s,s,s,s)
-return A.Dd(s,A.agr(A.dy(this.z[b],s,s,s,B.Li,B.az,s),new A.ac4(this,a,b),p),B.M,new A.ds(B.j,s,s,r,q,s,B.aW),150,B.Bp,s,150)}}
+return A.Dd(s,A.agr(A.dy(this.z[b],s,s,s,B.Li,B.az,s),new A.ac4(this,a,b),p),B.M,new A.ds(B.j,s,s,r,q,s,B.aW),200,B.Bp,s,200)}}
 A.acb.prototype={
 $2(a,b){var s=null,r=this.a.cy
 r===$&&A.a()
